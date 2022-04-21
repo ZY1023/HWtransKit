@@ -140,7 +140,7 @@ if __name__ == '__main__':
 					# print("这是所有文件名")
 					# print(doc_names)
 
-					print("请输入译文存放的根目录，如D:\\trans\\")
+					print("请输入译文存放的根目录，如D:\\trans\\en\\")
 					str_source_root = input()
 					temp1 = str_source_root.endswith('\\')
 					i = 0
@@ -204,12 +204,12 @@ if __name__ == '__main__':
 									break
 									
 								else:
-									print("请重新输入译文粘贴的根目录，如D:\\trans\\")
+									print("请重新输入译文粘贴的根目录，如D:\\doc\\en\\")
 									str_target_root = input()
 									break
 							break
 						else:
-							print("请重新输入译文存放的根目录，如D:\en\\")
+							print("请重新输入译文存放的根目录，如D:\\trans\\en")
 							str_source_root = input()
 							ii = 0 
 							for each in line_paths_filenames:
