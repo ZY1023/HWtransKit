@@ -1,7 +1,7 @@
-# websearchcopy (others)
+# websearchcopy(others)
 
 #### 介绍
-通过websearchcopy (others)，您可以快速的将PR链接中的多个文档取到指定PC目录下。本工具适用于OpenHarmony非docs仓以及不符合如下目录结构要求的其他仓：docs下直接分为zh-cn和en路径（如下截图所示）。
+通过websearchcopy(others)，您可以快速的将PR链接中的多个文档取到指定PC目录下。本工具适用于OpenHarmony非docs仓以及不符合如下目录结构要求的其他仓：docs下直接分为zh-cn和en路径（如下截图所示）。
 
 ![](figures/websearchcopynotlocal-6.png)
 
@@ -16,7 +16,7 @@
    例如，对于编号为1079的PR，切换到**文件**页签，拷贝地址栏的路径https://gitee.com/openeuler/docs/pulls/1079/files，再加上**.json**后缀，即`https://gitee.com/openeuler/docs/pulls/1079/files.json`。
 
    ![](figures/websearchcopynotdocs-1.png)
- 
+
    工具将提示读取到的路径，包括文档数量。
 
    ![](figures/websearchcopynotdocs-2.png)
@@ -36,7 +36,7 @@
    此时工具自动提示复制成功的文档数。如果有文档未能获取到，也会有相应的提示信息。
 
    ![](figures/websearchcopynotdocs-4.png)
- 
+
    在对应的目录下，也可以看到工具取出的待翻译文件。例如：**D:\TR\1079 EulerSP2之前的修改**目录
 
    ![](figures/websearchcopynotdocs-5.png)

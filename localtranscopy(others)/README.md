@@ -1,7 +1,7 @@
-# localtranscopy (others)
+# localtranscopy(others)
 
 #### 介绍
-本工具和[websearchcopy (others)](websearchcopy (others)/dist/websearchcopynotdocs.exe)配套试用，可以快速将已翻译好的译文复制到本地工作区(workspace)。
+本工具和[websearchcopy(others)](websearchcopy(others)/dist/websearchcopynotdocs.exe)配套试用，可以快速将已翻译好的译文复制到本地工作区(workspace)。
 
 #### 操作步骤
 

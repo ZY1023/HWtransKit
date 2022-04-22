@@ -1,7 +1,7 @@
-# localtranscopy (OH docs)
+# localtranscopy(ohdocs)
 
 #### 介绍
-本工具和[websearchcopy (OH docs)](websearchcopy (OH docs)/dist/websearchcopy.exe)配套试用，可以快速将已翻译好的译文复制到本地工作区(workspace)。
+本工具和[websearchcopy(ohdocs)](websearchcopy(ohdocs)/dist/websearchcopy.exe)配套试用，可以快速将已翻译好的译文复制到本地工作区(workspace)。
 
 #### 操作步骤
 

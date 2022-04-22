@@ -1,7 +1,7 @@
-# websearchcopy (OH docs)
+# websearchcopy(ohdocs)
 
 #### 介绍
-通过websearchcopy (OH docs)，您可以快速的将PR链接中的多个文档取到指定PC目录下。本工具适用于OpenHarmony docs仓以及其他社区符合如下目录结构的其他仓：docs下直接分为zh-cn和en路径（如下截图所示）。注意：该工具默认不取en路径下的文档。
+通过websearchcopy(ohdocs)，您可以快速的将PR链接中的多个文档取到指定PC目录下。本工具适用于OpenHarmony docs仓以及其他社区符合如下目录结构的其他仓：docs下直接分为zh-cn和en路径（如下截图所示）。注意：该工具默认不取en路径下的文档。
 
 ![](figures/websearchcopy-6.png)
 
