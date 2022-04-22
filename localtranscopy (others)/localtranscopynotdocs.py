@@ -115,7 +115,7 @@ if __name__ == '__main__':
 			if '.txt' in str:
 				if os.path.exists(str):
 					print('====================================================\npath文档加载成功！')
-					fopen = open(str,'r')
+					fopen = open(str,'r',encoding="UTF-8")
 					lines = fopen.readlines()
 					fopen.close()
 					
