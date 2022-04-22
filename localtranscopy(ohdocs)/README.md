@@ -15,13 +15,13 @@
 
    输入完成后，工具将自动加载该path文档。
 
-   ![](figures/localtranscopy-2.png)
+   ![](figures/localtranscopy-5.png)
 
 3. 输入译文所在的目录，且以反斜杠（\）结尾，再回车。
 
-   假设译文在**D:\TR\2090 mediaquery翻译\en**目录下，则输入 `D:\TR\2090 mediaquery翻译\`或 `D:\TR\2090 mediaquery翻译\en\`，再回车。
+   假设译文在**D:\TR\2090 mediaquery翻译\en**目录下，则输入`D:\TR\2090 mediaquery翻译\en\`，再回车。
 
-   ![](figures/localtranscopy-3.png)
+   ![](figures/localtranscopy-2.png)
    
    注：译文路径下的文档名，请和**websearchcopy.exe**自动创建的文档名保持一致。如下图所示，**en**文件夹下的文档名和**websearchcopy.exe**自动创建的文档名一致。
    
@@ -31,8 +31,12 @@
 
    假设译文要存储到docs仓，默认放置在D盘根目录下，则在白色所示的输入区域输入`D:\docs\en\`，再回车。
 
-   此时工具提示文件复制成功。译文已复制到本地工作区的对应路径，您可push到远程仓库。
+   此时工具提示文件复制成功。
 
+   ![](figures\localtranscopy-3.png)
+   
+   译文已复制到本地工作区的对应路径，您可push到远程仓库。
+   
    注：在进行该操作之前，请确保根目录下的文档和上游仓库一致，避免后续提交PR时出现冲突。如果需要使用分支提交PR，也需要在进行该操作之前，使用git切换到对应的分支。
 
 #### Tips
