@@ -1,17 +1,17 @@
 # localtranscopy(ohdocs)
 
 #### 介绍
-本工具和[websearchcopy(ohdocs)](websearchcopy(ohdocs)/dist/websearchcopy.exe)配套试用，可以快速将已翻译好的译文复制到本地工作区(workspace)。
+本工具和[websearchcopy(ohdocs)](../websearchcopy(ohdocs)/dist/websearchcopy(docs).exe)配套试用，可以快速将已翻译好的译文复制到本地工作区(workspace)。
 
 #### 操作步骤
 
-1. 双击**dist**目录下的**localtranscopy.exe**，打开对应的操作界面。
+1. 双击**dist**目录下的**localtranscopy(docs).exe**，打开对应的操作界面。
 
    ![](figures/localtranscopy-1.png)
 
 2. 在白色所示的输入区域输入path文档路径，例如`D:\path_2090.txt`，再回车。
 
-   该path文档由**websearchcopy.exe**自动生成，默认保存在D盘根目录下。
+   该path文档由**websearchcopy(docs).exe**自动生成，默认保存在D盘根目录下。
 
    输入完成后，工具将自动加载该path文档。
 
@@ -23,7 +23,7 @@
 
    ![](figures/localtranscopy-2.png)
    
-   注：译文路径下的文档名，请和**websearchcopy.exe**自动创建的文档名保持一致。如下图所示，**en**文件夹下的文档名和**websearchcopy.exe**自动创建的文档名一致。
+   注：译文路径下的文档名，请和**websearchcopy(docs).exe**自动创建的文档名保持一致。如下图所示，**en**文件夹下的文档名和**websearchcopy(docs).exe**自动创建的文档名一致。
    
    ![](figures/localtranscopy-4.png)
    

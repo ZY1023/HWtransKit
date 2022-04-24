@@ -7,7 +7,7 @@
 
 #### 操作步骤
 
-1. 双击**dist**目录下的**websearchcopy.exe**，打开对应的操作界面。
+1. 双击**dist**目录下的**websearchcopy(docs).exe**，打开对应的操作界面。
 
 2. 需要输入PR路径（以.json结尾），再回车。
 
